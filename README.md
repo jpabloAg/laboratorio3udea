@@ -37,6 +37,5 @@ $ npm test
 Execute:
 
 ```shell
-$ npm 
-run cover
+$ npm run cover
 ```
