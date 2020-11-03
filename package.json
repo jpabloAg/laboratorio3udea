@@ -1,0 +1,23 @@
+{
+  "name": "laboratorio3udea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpabloAg/laboratorio3udea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpabloAg/laboratorio3udea/issues"
+  },
+  "homepage": "https://github.com/jpabloAg/laboratorio3udea#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
