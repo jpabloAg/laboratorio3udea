@@ -13,7 +13,7 @@ integration with Travis CI, Sonarqube (SonarCloud), Coveralls and Snyk
 
 In the folder `app` is located the main code of the app
 
-In the folder `test` is located the unit tests
+In the folder `test` is located the unit tests and i use the framework angular
 
 ### How to install it
 
